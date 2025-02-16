@@ -34,3 +34,7 @@ Automation hub for RNAseq task templates, checks, and release notes.
 
 This repository is written as a standalone engineering project.
 The code and docs are kept readable, explicit, and signed by Red@.
+
+## Workflow
+
+Red@ iterates in short bursts, then leaves gaps for review and correction.
