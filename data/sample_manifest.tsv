@@ -1,3 +1,4 @@
 sample	status	group
 rnaseq-automation-hub-01	ready	control
 rnaseq-automation-hub-02	review	case
+rnaseq-automation-hub-03	queued	validation
